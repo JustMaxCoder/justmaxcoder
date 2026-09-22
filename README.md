@@ -31,13 +31,6 @@
 
 ---
 
-## 📊 Моя статистика GitHub
-
-<p align="left">
-  <img src="https://vercel.app" alt="Maksym's GitHub Stats" />
-  <img src="https://vercel.app" alt="Top Langs" />
-</p>
-
 ## ✉️ Контакты
 - **Telegram:** [@coinif]([https://t.me/coinif)
 - **GitHub:** [JustMaxCoder](https://github.com)
