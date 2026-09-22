@@ -14,4 +14,4 @@
 </p>
 
 ## ✉️ Контакты
-- **Telegram:** [@ваш_ник]([https://t.me/coinif)
+- **Telegram:** [@coinif]([https://t.me/coinif)
